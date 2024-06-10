@@ -8,5 +8,10 @@ public class SolarSystem {
         solarSystemBase.planet="2";
         solarSystemBase.star="3";
         System.out.println("the solar system is ready");
+
+        featureSun fe = new featureSun();
+        fe.color="pink";
+        fe.temp="23r5434";
+        fe.size="Okm";
     }
 }
