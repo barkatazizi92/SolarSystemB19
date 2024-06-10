@@ -13,5 +13,10 @@ public class SolarSystem {
         fe.color="pink";
         fe.temp="23r5434";
         fe.size="Okm";
+
+        planet1 p = new planet1();
+        p.color="grey";
+        p.size="10km";
+        p.radius="5m";
     }
 }
