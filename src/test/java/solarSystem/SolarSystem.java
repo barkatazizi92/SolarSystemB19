@@ -18,5 +18,10 @@ public class SolarSystem {
         p.color="grey";
         p.size="10km";
         p.radius="5m";
+
+        planet2 p2 = new planet2();
+        p2.color="green";
+        p2.radius="sfhd34";
+        p2.size= "23/45";
     }
 }
